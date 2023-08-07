@@ -1,0 +1,6 @@
+{
+    "UrlRegistry":{
+        "HarvestManagementServiceUrl": "https://localhost:7077"
+    },
+    "AuthonticationToken": "Basic YWRtaW46YWRtaW4="
+}
